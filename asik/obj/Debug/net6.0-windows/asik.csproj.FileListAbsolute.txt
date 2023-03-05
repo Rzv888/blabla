@@ -1,0 +1,17 @@
+C:\Vs\Code\asik\asik\obj\Debug\net6.0-windows\asik.csproj.AssemblyReference.cache
+C:\Vs\Code\asik\asik\obj\Debug\net6.0-windows\asik.Form1.resources
+C:\Vs\Code\asik\asik\obj\Debug\net6.0-windows\asik.csproj.GenerateResource.cache
+C:\Vs\Code\asik\asik\obj\Debug\net6.0-windows\asik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vs\Code\asik\asik\obj\Debug\net6.0-windows\asik.AssemblyInfoInputs.cache
+C:\Vs\Code\asik\asik\obj\Debug\net6.0-windows\asik.AssemblyInfo.cs
+C:\Vs\Code\asik\asik\obj\Debug\net6.0-windows\asik.csproj.CoreCompileInputs.cache
+C:\Vs\Code\asik\asik\bin\Debug\net6.0-windows\asik.exe
+C:\Vs\Code\asik\asik\bin\Debug\net6.0-windows\asik.deps.json
+C:\Vs\Code\asik\asik\bin\Debug\net6.0-windows\asik.runtimeconfig.json
+C:\Vs\Code\asik\asik\bin\Debug\net6.0-windows\asik.dll
+C:\Vs\Code\asik\asik\bin\Debug\net6.0-windows\asik.pdb
+C:\Vs\Code\asik\asik\obj\Debug\net6.0-windows\asik.dll
+C:\Vs\Code\asik\asik\obj\Debug\net6.0-windows\refint\asik.dll
+C:\Vs\Code\asik\asik\obj\Debug\net6.0-windows\asik.pdb
+C:\Vs\Code\asik\asik\obj\Debug\net6.0-windows\asik.genruntimeconfig.cache
+C:\Vs\Code\asik\asik\obj\Debug\net6.0-windows\ref\asik.dll
